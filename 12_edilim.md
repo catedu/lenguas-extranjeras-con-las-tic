@@ -1,0 +1,34 @@
+# 1.2 Edilim
+
+
+![](img/edilim_logo.gif)
+
+
+Fig 5.8  [www3.gobiernodecanarias.org](http://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&docid=kG-7aYGwMySYkM&tbnid=Tl0A0SSeyKCjsM:&ved=0CAQQjB0&url=http%3A%2F%2Fwww3.gobiernodecanarias.org%2Fmedusa%2Fcontenidosdigitales%2FCursAutoform%2FInfantil%2FConocEntor%2Finf_cono_m1_sin%2Fcontenidos%2Fapartados%2F2_unidad_formativa%2F4_edlim%2F1_edilim.htm&ei=a3-SUvPGIubA0QWp8oHIBw&bvm=bv.56988011,d.d2k&psig=AFQjCNGFL7LaF3jkYEYQs9syWPybIG9dZQ&ust=1385418971600376) Licencia Creatice Commons
+
+[_**Lim**_](http://www.educalim.com/cinicio.htm) es una sencilla aplicación creada por **_F__rac Macias_**, un compañero de Galicia, que permite su libre uso y distribución siempre que se respete su gratuidad y autoría. Se trata de un entorno para la creación de **materiales educativos** muy fácil de utilizar que **no necesita** ninguna **instalación** en el ordenador y que crea materiales didácticos accesibles desde Internet, independientemente del equipo y del navegador utilizado.
+
+Su **_editor de libros,_** [**_Edilim_**](http://www.educalim.com/cinicio.htm), es un **ejecutable de pequeño tamaño** que actualmente sólo se puede utilizar en Windows (también con Guadalinex si tienes instalado Wine). La mayor ventaja de esta herramienta es su sencillez y la posibilidad de crear una gran variedad de actividades (**hasta 42 diferentes** que se van ampliando con las nuevas versiones) reutilizando recursos que encontramos en la red (fotos, vídeos, animaciones, sonidos...). Los materiales elaborados se utilizan en línea por lo que son accesibles desde todos los equipos.
+
+Ventajas:
+
+*   No es necesario instalar nada en el ordenador.
+*   Accesibilidad inmediata desde internet.
+*   Independiente del sistema operativo, hardware y navegador web.
+*   Tecnología Macromedia Flash, de contrastada fiabilidad y seguridad.
+*   Entorno abierto, basado en el formato XML.
+
+### TUTORIAL
+
+Edilim es una herramienta **muy interesante**, pero **menos intuitiva** que Educaplay o Thatquiz. Es por eso que os dejamos a vuestra disposición el siguiente [**manual interactivo**](http://www.aularagon.org/Files/UserFiles/File/Internet_aula/INF_COMUNICACION/Tutoriales/EdiLIM/EdiLIM.htm) que os ayudará en el proceso de creación de vuestros libros.
+
+
+![](img/edilim_tutorial.JPG)
+
+
+Fig 5.9 Captura Propia
+
+### PARA COMPARTIR EN EL BLOG.
+
+Las actividades de Edilim **no se pueden embeber** como las de Educaplay, es decir no podemos verlas integradas dentro del entorno de nuestro blog a través de un código embebido. **Podemos compartir** **recursos externos**  a través del **enlace** que genera cada libro, **copiando la url** y pegándola en una entrada de nuestro blog vinculada a un texto o a una imagen. Sin embargo, **nuestras creaciones** propias deberán de pasar por **otro servidor** en la nube para poder ser compartidos en nuestros blogs. En el apartado **"ampliación de contenidos"** te explicamos como hacer todo el proceso.  
+
