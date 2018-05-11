@@ -13,7 +13,8 @@ ____
 	* [U.2: Proveedores de Blogs](u2_proveedores_de_blogs.md)
 		* [Blogger](blogger.md)
 		* [Wordpress](wordpress.md)
-* [Créditos](crditos.md)
+
+<!--
 ### M2: Escuchamos, grabamos...y lo compartimos! | M2. Escuchamos, grabamos... y lo compartimos! 
 * [M2: Escuchamos, grabamos...y lo compartimos!](index1.md)
 * [Contenidos](contenidos1.md)
@@ -64,4 +65,7 @@ ____
 		* [1.2 Edilim](12_edilim.md)
 		* [1.3 Thatquiz](13_thatquiz.md)
 * [Ampliación de contenidos](ampliacin_de_contenidos4.md)
-* [Créditos](crditos4.md)
+-->
+
+___
+* [Créditos](crditos.md)

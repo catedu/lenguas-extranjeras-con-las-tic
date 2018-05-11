@@ -1,10 +1,7 @@
 # M1: Los Blogs en el aula de lengua extranjera
 
 
-![](img/article.jpg)
-
-
-Fig 1.1 [www.eskola20.euskadi.net](http://www.google.es/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&docid=PnawuTOi5xVbeM&tbnid=2BSEgblHKO7MPM:&ved=0CAQQjB0&url=http%3A%2F%2Fwww.eskola20.euskadi.net%2Fweb%2Fguest%2Fplanetaki&ei=IK2XUvu7HKOJ0AXxsICIAg&bvm=bv.57155469,d.d2k&psig=AFQjCNFN7R4GACzjZdPhe-jDAY-K8gZELA&ust=1385758363133575) Licencia Creative Commons
+![Fig 1.1 www.eskola20.euskadi.net](img/article.jpg)
 
 Como has leido en la introduccion general , el **blog** va a ser el **eje fundamental** del **curso**. En este primer módulo vas a conocer que es un blog, te vamos a familiarizar con los servidores más habituales y finalmente editarás tu propio blog que te acompañará a lo largo del curso.
 

@@ -13,10 +13,10 @@ La formasde incluir los podcast o audios en nuestro blog pueden ser varias, depe
 Te invitamos a ver el siguiente **[ejemplo](http://listentrebol.blogspot.com.es/)** en el que el blog tiene una zona específica para trabajar la comprension oral. A través de un enlace en una imagen, llegamos a la zona de [l](http://listentrebol.blogspot.com.es/)istening, donde a parte del audio, el maestro ha colgado el ejercicio relacionado.
 
 
- ![](img/listenlisten.JPG)
+![Fig 1.18  Blog: English El Trebol http://monzon3ingles5.blogspot.com.es/](img/listenlisten.JPG)
 
 
- Fig 1.18  Blog: [English El Trebol](http://monzon3ingles5.blogspot.com.es/)
+ 
 
 Otra posibilidad didáctica muy interesante e incluso más motivadora que la anterior, es la de **crear nuestros propios podcast** con nuestros alumnos. De una forma sencilla podemos grabar nuestras propias piezas de audio y colgarlas en nuestro blog. De su aplicación didáctica es importante destacar el valor motivador , puesto que son los protagonistas absolutos de la actividad. Por otra parte, nos permite a los docentes crear un registro de la evolución de nuestros alumnos respecto a los aspectos de **comunicación oral** más importantes como son la **pronunciación**, el **ritmo** y la **fluidez**.
 
@@ -27,10 +27,10 @@ Para insertar nuestros podcast en el blog, utilizaremos el **código embebido** 
 En el siguiente **[ejemplo](http://monzon3english5.webnode.es/listenings/)** podemos ver como los alumnos interpretan una de las lecturas del libro de texto y el resultado es añadido al blog de área.
 
 
-![](img/poderato1.JPG)
+![Fig. 1.19 Blog: Monzon3english http://monzon3english5.webnode.es/listenings/ Captura de pantalla](img/poderato1.JPG)
 
 
-Fig. 1.19 Blog: [Monzon3english](http://monzon3english5.webnode.es/listenings/) Captura de pantalla
+
 
 ### **ACTIVIDADES INTERACTIVAS.**
 
@@ -43,19 +43,19 @@ Vamos a ver **dos ejemplos**:
 En el primero, la actividad interactiva es un **aula virtual**. En este caso hay dos, una para 5º y otra para 6º. La forma en la que está incluida en el blog es un **[enlace en una imagen.](http://monzon3ingles5.blogspot.com.es/)** Cuando los alumnos entran en esa zona, inmediatamente son redireccionados a la **[página del generador,](http://www.thatquiz.org/es/classtest?U3OC8GWH)** es este caso **thatquiz.com**
 
 
- ![](img/aulaviertual.JPG)
+![Fig 1.20  Blog: English El Trebol http://monzon3ingles5.blogspot.com.es/](img/aulaviertual.JPG)
 
 
- Fig 1.20  Blog: [English El Trebol](http://monzon3ingles5.blogspot.com.es/)  
+  
   
 
  En este [**segundo ejemplo**](http://cosasdepepa.blogspot.com.es/2010/04/adivinanzas-con-educaplay.html), además de encontrar una muy buena descripción de que es una actividad Educaplay, podrás ver la actividad incluida  como parte del blog. En este caso se ha usado un **código embebido** para poder conseguir el resultado.
 
 
-![](img/edulimpepa.JPG)
+![Fig 1.21 Blog: Cosas de Pepa http://cosasdepepa.blogspot.com.es/2010/04/adivinanzas-con-educaplay.html](img/edulimpepa.JPG)
 
 
-Fig 1.21 Blog: [Cosas de Pepa](http://cosasdepepa.blogspot.com.es/2010/04/adivinanzas-con-educaplay.html)
+
 
 ### **VIDEOS DE YOUTUBE Y PROPIOS**
 
@@ -66,18 +66,18 @@ Otra opción es la posibilidad de crear **nuestros propios videos** y de subirlo
  En el **[primer ejemplo](http://albertomeditutor.blogspot.com.es/2013/11/two-videos-to-think-about.html)** el autor utiliza videos de **youtube** que integra en su blog a través de código embebido.
 
 
-![](img/youtube.JPG)
+![Fig 1.22 Blog Secondary English Teacher http://albertomeditutor.blogspot.com.es/2013/11/two-videos-to-think-about.html](img/youtube.JPG)
 
 
-Fig 1.22[Blog Secondary English Teacher](http://albertomeditutor.blogspot.com.es/2013/11/two-videos-to-think-about.html)
+
 
 En este **[segundo ejemplo](http://craarinotelevision.blogspot.com.es/2009/06/au-restaurant-chapitre-2.html)**, los videos son de **producción propia**, y recogen el trabajo de los alumnos durante una unida didáctica del área de francés.
 
 
-![](img/frances_arino.png)
+![Fig. 1.23  Blog: Televisión Escolar http://craarinotelevision.blogspot.com.es/2009/06/au-restaurant-chapitre-2.html](img/frances_arino.png)
 
 
-Fig. 1.23  [Blog: Televisión Escolar](http://craarinotelevision.blogspot.com.es/2009/06/au-restaurant-chapitre-2.html)
+
 
 ### **ENLACES A PÁGINAS DE INTERÉS.**
 
@@ -90,10 +90,9 @@ La forma de incluir enlaces es sencilla, simplemente **copiando la direccion de 
 En el **[siguiente ejemplo](monzon3ingles5.blogspot.com),** los ejercicios relacionados con la unidad didáctica están **vinculados a un texto propio.**
 
 
-![](img/ejercicios_online.JPG)
+![Fig 1.24 English el Trebol](img/ejercicios_online.JPG)
 
 
-Fig 1.24 English el Trebol
 
 ###  **PRESENTACIONES Y PUBLICACIONES **
 
@@ -104,20 +103,20 @@ De la misma manera que podiamos compartir los videos de las galerias de youtube 
 En este **[primer ejemplo](http://clubdeidiomassantaana.wordpress.com/)** vemos una presentación creada a partir de **Slideshare** y que ha sido **embebida en el blog.**
 
 
-![](img/slideshare.png)
+![Fig 1.25 Blog: Blog de inglés del IES Santa Ana http://clubdeidiomassantaana.wordpress.com/ Captura de pantalla](img/slideshare.png)
 
 
-Fig 1.25 Blog: [Blog de inglés del IES Santa Ana](http://clubdeidiomassantaana.wordpress.com/) Captura de pantalla
+
 
  Otra aplicación que nos permite **crear libros digitales** propios es **ISSUU,** que convierte **archivos pdf** en presentaciones en forma de **libro digital.** Este recurso es muy interesante a la hora de crear producciones conjuntas, hacer recopilación de actividades o como trabajo final en cualquier actividad de trabajo colaborativo.
 
 Además de crear nuestros propios libros, hay un **[gran banco de recursos](http://issuu.com/nsnews/docs/back_to_school__4_2010)** ya creados que podemos utilizar e insertar en nuestros blogs.
 
 
-![](img/issuu.JPG)
+![Fig 1.26 Get Ready http://issuu.com/nsnews/docs/back_to_school__4_2010 Captura de pantalla](img/issuu.JPG)
 
 
-Fig 1.26 [Get Ready](http://issuu.com/nsnews/docs/back_to_school__4_2010) Captura de pantalla
+
 
 ###  **OTROS RECURSOS**
 
@@ -126,8 +125,8 @@ La web 2.0 ha generado un **gran número de recursos y aplicaciones web 2.0**. A
 Como ejemplo te exponemos **[vokki](http://www.voki.com/),** una herramienta que genera un avatar que es capaz de leer en diferentes lenguas el texto que introducimos.
 
 
-**![](img/vokki.JPG)**
+![Fig 1.27 Recurso: Vokki http://www.voki.com/](img/vokki.JPG)
 
 
-Fig 1.27 Recurso: [Vokki](http://www.voki.com/)
+
 

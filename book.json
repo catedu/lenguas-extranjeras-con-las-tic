@@ -2,15 +2,15 @@
     "plugins": ["youtube", "accordion", "image-captions", "styled-blockquotes", "localized-footer", "quiz"],
     "language": "es",
     "variables": {
-        "title": "______________",
-        "author": "______________",
+        "title": "Lenguas Extranjeras con las TIC",
+        "author": "Álvaro Rodríguez Castells",
         "collaborators": [
             { "name": "_________", "edited": "_____________" }
         ]
     },
     "pluginsConfig": {
         "image-captions": {
-            "caption": "Imagen - _CAPTION_"
+            "caption": "_CAPTION_"
         },
         "localized-footer": {
             "hline": true,

@@ -1,10 +1,7 @@
 # 1.1 Blogs educativos
 
 
-![](img/blogs_educativos.png)
-
-
-Fig 1.4  [enmarchaconlastic.educarex.es](http://www.google.es/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&docid=E1p8AX-GLRo8xM&tbnid=CzV9j-Z8JJe1UM:&ved=0CAQQjB0&url=http%3A%2F%2Fenmarchaconlastic.educarex.es%2F2011%2F12%2F01%2Fplaneta-educarex-un-punto-de-encuentro-de-los-blogs-educativos-extremenos%2F&ei=j86BUrWAMLP40gW0pIHQBg&psig=AFQjCNEAj3yce-qaYeCst3Qlk1qzce13gA&ust=1384325008690991) Licencia Creative Commons
+![Fig 1.4 enmarchaconlastic.educarex.es Licencia Creative Commons](img/blogs_educativos.png)
 
 ###  **BLOGS EDUCATIVOS **
 
@@ -37,10 +34,8 @@ Son aquellos en los que sirven para **gestionar una tutoria**. Punto de **encuen
 [Blog de tercero de primaria de Binaced (CRA EL TREBOL)](http://tercerobinaced.blogspot.com.es/)
 
 
-![](img/binaced.png)
+![Fig 1.5. Blog: Tercero Primaria de Binaced captura de pantalla](img/binaced.png)
 
-
-Fig 1.5. Blog: [Tercero Primaria de Binaced](http://tercerobinaced.blogspot.com.es/) captura de pantalla
 
 ### **BLOGS DEL ALUMNO**
 
@@ -49,43 +44,31 @@ En algunos colegios se ha desarrollado la experiencia de que cada alumno posea u
 [Blog de alumno (CRA ARIÑO-ALLOZA)](vicentearino.blogspot.com)
 
 
-![](img/vicen.png)
+![Fig 1.6. Blog: El espacio de Vicente captura de pantalla](img/vicen.png)
 
 
-Fig 1.6. Blog: [El espacio de Vicente](vicentearino.blogspot.com) captura de pantalla
 
-### **BLOGS DE COLEGIO  
-**
+### BLOGS DE COLEGIO  
 
 Aquellos que a través de diversos formatos, como el de **periodico digital** o incluso **página web** del colegio, sirven de **encuentro** de la **comunidad educativa.** Aquí aprovecharíamos la potencia de los blogs en cuanto a gestión de archivos multimedia, propios o referenciados desde almacenes de contenidos (Flickr, Odeo, Youtube…).
 
 [Periódico Escolar Cra Ariño-Alloza](ARININOS2.blogspot.com)
 
 
-![](img/arininos.png)
+![Fig 1.7. Blog: Ariniños captura de pantalla](img/arininos.png)
+              
+[Blog del colegio Alfonso I de Tauste](http://www.catedu.es/arablogs/blog.php?id_blog=2395)
 
 
-              Fig 1.7. Blog: [Ariniños](http://www.arininos2.blogspot.com) [captura de pantalla](http://www.terceroprimariabinaced.blogspot.com)
-
- [Blog del colegio Alfonso I de Tauste](http://www.catedu.es/arablogs/blog.php?id_blog=2395)
+![Fig. 1.8: Blog del colegio Alfonso I de Tauste captura de pantalla](img/alfondoI.png)
 
 
-![](img/alfondoI.png)
-
-
-Fig. 1.8: [Blog del colegio Alfonso I de Tauste](http://www.catedu.es/arablogs/blog.php?id_blog=2395) captura de pantalla  
-  
-
-### **BLOGS DE ÁREA  
-**
+### BLOGS DE ÁREA  
 
 Es el que nos ocupa en este módulo. Utilizado para **desarrollar, ampliar  o apoyar** diferentes áreas del curriculo.
 
 [Blog de religión (CEIP MONZON 3)](http://www.divertireli.blogspot.com)
 
 
-![](img/divertireli.png)
-
-
-Fig 1.9: [Blog: Divertireli](http://www.divertireli.blogspot.com) captura de pantalla
+![Fig 1.9: Blog: Divertireli captura de pantalla](img/divertireli.png)
 
