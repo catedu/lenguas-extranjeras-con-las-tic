@@ -1,10 +1,10 @@
 # 3.1 Audacity
 
 
-![](img/Audacity-logo.jpg)
+![Fig 2.17  manual.audacityteam.org Licencia Creative Commons](img/Audacity-logo.jpg)
 
 
-Fig 2.17  [manual.audacityteam.org](http://www.google.es/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&docid=PxgdHHRj85Kk9M&tbnid=SQ-6NP_T-0n2oM:&ved=0CAQQjB0&url=http%3A%2F%2Fmanual.audacityteam.org%2Fman%2FMain_Page%2Fes&ei=43CEUqqfJoTCswbwo4HwBQ&bvm=bv.56343320,d.Yms&psig=AFQjCNGt8Lf_U47W40hAnx6RW_xdri7_VQ&ust=1384497750886777) Licencia Creative Commons
+
 
 **Audacity** es un **grabador** y  **editor** de sonido, fácil de usar y que nos da muchas posibilidades. La diferencia de Audacity con el recurso anterior, la grabadora de sonidos, es que mientras la grabadora no nos deja editar el resultado final,  con este programa se van a poder , **convertir archivos** de audio a diferentes formatos, cortar, pegar o empalmar pistas de audio para mezclar sonidos, cambiar la velocidad de grabación o reproducción, agregar efectos de sonido, etc. Resumiendo, lograrás resultados **más profesionale**s y más **motivadores** para tus alumnos.
 
@@ -31,10 +31,10 @@ Como verás,  en el apartado "para saber más", hemos incluido un manual comple
 **2.- Entorno del programa:** Una vez instalado el programa, accederás al entorno de trabajo. Como hemos dicho anteriormente es un entorno muy sencillo que presenta iconos y menús muy intuitivos. En la siguiente figura te detallamos los elementos indispensables para comenzar a grabar.
 
 
-![](img/audacity_pantalla.png)
+![Fig 2.18 http://www.ite.educacion.es Licencia Creative Commons](img/audacity_pantalla.png)
 
 
-           Fig 2.18 [http://www.ite.educacion.es](http://www.ite.educacion.es) Licencia Creative Commons
+
 
 1.- **Barra de menús.** Como en cualquier aplicación Windows se puede utilizar para activar cualquier opción del programa.
 
@@ -61,14 +61,16 @@ Cada vez son más **frecuentes** las versiones **"portable"** de software. Estas
 En este [enlace](http://audacity-portable.softonic.com/) podras descargarte la versión **portable de Audacity** que nos ofrece las mismas características que su versión instalable.
 
 
-![](img/audacity_portable.jpg)
+![Fig 2.19 portable apps . Licencia Creative Commons](img/audacity_portable.jpg)
 
 
-                   Fig 2.19 portable apps . Licencia Creative Commons
+                   
 
 ### VIDEOTUTORIAL.  
 
 El siguiente video muestra el **uso básico** de Audacity al nivel en el que lo vas a utilizar en el desarrollo de la tarea correspondiente a este módulo. Por supuesto que el programa tiene muchas más posibilidades de edición, pero este tutorial te ayudará a crear tus **primeros episodios** de podcast de forma simple.
+
+{% youtube %}https://youtu.be/0zRpWqsfFDg{% endyoutube %}
 
 ###  TUTORIAL
 
@@ -77,8 +79,8 @@ Todo lo que te hemos presentado hasta ahora en esta unidad respecto a Audacity, 
 Este [manual](Tutorial-Audacity.pdf) creado por Daniel Primo Gorgoso, describe de una forma **más específica** característica técnicas concretas del programa muy interesantes tanto para la grabación como la posterior **edición de pistas.**
 
 
-[![](img/Manual_Audacity_2.JPG)](http://www.catedu.es/facilytic/wp-content/uploads/2013/06/Tutorial-Audacity.pdf)
+[![Fig 2.21 Manual Audaciy](img/Manual_Audacity_2.JPG)](http://www.catedu.es/facilytic/wp-content/uploads/2013/06/Tutorial-Audacity.pdf)
 
 
-Fig 2.21 Manual Audaciy
+
 

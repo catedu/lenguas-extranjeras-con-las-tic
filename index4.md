@@ -1,10 +1,10 @@
 # M5. Diseñamos nuestras actividades interactivas.
 
 
-![](img/disenando_actividades.jpg)
+![Fig 5.1. www.e-sort.net Licencia Creative Commons](img/disenando_actividades.jpg)
 
 
-Fig 5.1. [www.e-sort.net](http://www.google.es/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&docid=UBgq52i3TbVe_M&tbnid=3glEgi_BTQn5QM:&ved=0CAQQjB0&url=http%3A%2F%2Fwww.e-sort.net%2F&ei=oE-SUtfsMYTQ0QX3gIHIBw&bvm=bv.56988011,d.d2k&psig=AFQjCNEopMlTJnzZShyf2Tnjq_zRNqH3QQ&ust=1385406708796294) Licencia Creative Commons
+
 
 Durante todo el curso, hemos ido presentando **herramientas web 2.0** que nos han permitido ir creando diferentes recursos para utiilzarlos en nuestra aula de lengua extranjera. Es el momento de distinguir entre dos tipos de herramientas Tic en general, y web 2.0 en particular. Hay,que **diferenciar** entre las **activas** y las **pasivas.**
 
@@ -19,6 +19,8 @@ En este módulo vamos a presentarte algunas de esas herramientas web 2.0 que te 
 Elaborar actividades educativas no sólo enriquece el aporte de materiales TIC útiles para las clases, sino que te permite **reflexionar** sobre si los **contenidos, materiales y ejercicios** que planteas en clase son los más adecuados, te ayuda a organizar las ideas, te aporta nuevos **planteamientos** educativos y **metodológicos** y, en el caso de la materia de lenguas extranjeras , te permite crear actividades **audiovisuales e interactivas** que sin las TIC sería imposible imaginar.ç
 
 La **web 2.0** ha creado todas estas posibilidades de **interacción** conviertiedo al alumno en un sujeto activo de aprendizaje respecto a los entornos de aprendizaje virtual.
+
+{% youtube %}https://youtu.be/vyuxSekileE{% endyoutube %}
 
 Hoy en dia encontramos muchas **aplicaciones** que nos permiten crear este tipo de recursos utilizando **diferentes formatos**: juegos, presentaciones, crucigramas... A continuación te dejamos una lista con los enlaces a algunos de los más destacados:
 

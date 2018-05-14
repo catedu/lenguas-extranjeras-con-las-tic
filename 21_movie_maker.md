@@ -1,10 +1,10 @@
 # 2.1. Movie Maker
 
 
-![](img/windows-movie-maker.png)
+![Fig 3.9 windows-movie-maker-2012.softonic.com Licencia Creative Commons](img/windows-movie-maker.png)
 
 
- Fig 3.9 windows-movie-maker-2012.softonic.com Licencia Creative Commons
+ 
 
 [Windows Movie Maker](http://www.windows-movie-maker.org/es/) es un programa de **edición** de material **audiovisual**. Está incluido en  el sistema operativo de _Windows_.
 
@@ -42,10 +42,11 @@ A nivel técnico es muy sencillo de utilizar.Las c**aracterísticas de edición*
 [1.- Tutorial](http://toolteca.files.wordpress.com/2011/03/manual_movie_maker.pdf) escrito por **Maria Hacho** en el que además de explicar la parte técnica, explica todo **el proceso** de trabajo desde el principio, con lo requisitos previos, y capturas de pantalla de cada uno de los pasos.
 
 
-![](img/manual_movie_maker.JPG)
+![Fig 3.10 Manual de movie maker Maria Haro](img/manual_movie_maker.JPG)
 
 
-Fig 3.10 Manual de movie maker Maria Haro
+
 
 ** 3.- Video tutorial**
 
+{% youtube %}https://youtu.be/G8YNY-Fg4-o{% endyoutube %}

@@ -3,8 +3,9 @@
 * [Introducción](README.md)
 
 ____
-### M1: Los Blogs en el aula de lengua extranjera | Los blogs en el aula de lenguas extranjeras 
-* [M1: Los Blogs en el aula de lengua extranjera](index0.md)
+
+### 1. Los blogs en el aula de lenguas extranjeras 
+* [Los Blogs en el aula de lengua extranjera](index0.md)
 * [Contenidos](contenidos.md)
 	* [U.1: ¿Qué es un blog?](u1_qu_es_un_blog.md)
 		* [1.1 Blogs educativos](11_blogs_educativos.md)
@@ -14,9 +15,8 @@ ____
 		* [Blogger](blogger.md)
 		* [Wordpress](wordpress.md)
 
-<!--
-### M2: Escuchamos, grabamos...y lo compartimos! | M2. Escuchamos, grabamos... y lo compartimos! 
-* [M2: Escuchamos, grabamos...y lo compartimos!](index1.md)
+### 2. Escuchamos, grabamos... y lo compartimos! 
+* [Escuchamos, grabamos...y lo compartimos!](index1.md)
 * [Contenidos](contenidos1.md)
 	* [U.1: Podcasting](u1_podcasting.md)
 	* [U.2:.Pod cast en el aula de lengua extranjera](u2pod_cast_en_el_aula_de_lengua_extranjera.md)
@@ -28,9 +28,9 @@ ____
 	* [U.4: Nuestro pod cast en la nube](u4_nuestro_pod_cast_en_la_nube.md)
 		* [4.1 Poderato](41_poderato.md)
 		* [4.2 Sound Cloud](42_sound_cloud.md)
-* [Créditos](crditos1.md)
-### M3.5 y acción! | M3. 5 y acción! 
-* [M3.5 y acción!](index2.md)
+
+### 3. 5 y acción! 
+* [3.5 y acción!](index2.md)
 * [Contenidos](contenidos2.md)
 	* [U1. Uso de videos en el aula.](u1_uso_de_videos_en_el_aula.md)
 		* [1.1. Aplicación didáctica en el aula de lenguas extranjeras](11_aplicacin_didctica_en_el_aula_de_lenguas_extranjeras.md)
@@ -42,9 +42,9 @@ ____
 	* [U3.Edito mi programa en la nube: Aminoto](u3edito_mi_programa_en_la_nube_aminoto.md)
 	* [U.4 Comparto mis videos en el blog](u4_comparto_mis_videos_en_el_blog.md)
 * [Ampliación de contenidos](ampliacin_de_contenidos.md)
-* [Créditos](crditos2.md)
-### M4. LECTURAS VIRTUALES | M4.-LECTURAS VIRTUALES 
-* [M4. LECTURAS VIRTUALES](index3.md)
+
+### 4. LECTURAS VIRTUALES 
+* [LECTURAS VIRTUALES](index3.md)
 * [Contenidos](contenidos3.md)
 	* [U1.Storybird](u1storybird.md)
 		* [1.1 Aplicación en el aula de lengua extranjera](11_aplicacin_en_el_aula_de_lengua_extranjera.md)
@@ -56,16 +56,15 @@ ____
 		* [3.1 Aplicación en el aula de lengua extrajera](31_aplicacin_en_el_aula_de_lengua_extrajera.md)
 		* [3.2 Tutoriales](32_tutoriales.md)
 * [Ampliación de contenidos](ampliacin_de_contenidos3.md)
-* [Créditos](crditos3.md)
-### M5. Diseñamos nuestras actividades interactivas. | Diseñamos nuestras actividades interactivas. 
-* [M5. Diseñamos nuestras actividades interactivas.](index4.md)
+
+### 5. Diseñamos nuestras actividades interactivas. 
+* [Diseñamos nuestras actividades interactivas.](index4.md)
 * [Contenidos](contenidos4.md)
 	* [U1. Actividades interactivas en el aula de lenguas extranjeras](u1_actividades_interactivas_en_el_aula_de_lenguas_extranjeras.md)
 		* [1.1 Educaplay](11_educaplay.md)
 		* [1.2 Edilim](12_edilim.md)
 		* [1.3 Thatquiz](13_thatquiz.md)
 * [Ampliación de contenidos](ampliacin_de_contenidos4.md)
--->
 
 ___
 * [Créditos](crditos.md)

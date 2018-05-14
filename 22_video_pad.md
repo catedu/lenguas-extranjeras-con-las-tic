@@ -1,10 +1,10 @@
 # 2.2. Video Pad
 
 
-![](img/videopad.jpg)
+![Fig 3.11  cyberforo.blogspot.com Licencia Creative Commons](img/videopad.jpg)
 
 
-Fig 3.11  [cyberforo.blogspot.com](http://www.google.es/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&docid=YrXZxizlsagnPM&tbnid=bYnWTAWYQ0T8GM:&ved=0CAQQjB0&url=http%3A%2F%2Fcyberforo.blogspot.com%2F2012%2F07%2Fvideopad-video-editor-v242-practico.html&ei=a0CNUqzUBcP60gXTtYGADA&bvm=bv.56643336,d.d2k&psig=AFQjCNGtGeVD21czSZGtihWd6eGxi0GRYQ&ust=1385075171750567) Licencia Creative Commons
+
 
 [**VideoPad Video Editor**](http://www.nchsoftware.com/videopad/es/index.html) es un  programa de **edición** y muy recomendado para todos aquellos aficionados o profesionales de los medios audiovisuales que deseen editar un video con **fotografías, música, efectos** o simplemente montar varios videos para dejar uno solo.
 
@@ -33,6 +33,6 @@ La interfaz que ofrece **VideoPad Video Editor** viene con un diseño bastante i
    
  **3.- Video tutorial**
 
-  
+{% youtube %}https://youtu.be/ylq9gyO8xA4{% endyoutube %}
  
 

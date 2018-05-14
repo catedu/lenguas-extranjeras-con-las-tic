@@ -1,10 +1,10 @@
 # U1. Uso de videos en el aula.
 
 
-![](img/cine-para-ninos.jpg)
+![Fig 3.3. fez.cervantes.es Licencia Creative Commons](img/cine-para-ninos.jpg)
 
 
-Fig 3.3. [fez.cervantes.es](http://www.google.es/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&docid=np_xPiKT5hKqIM&tbnid=Jdmex6EYu0ygSM:&ved=0CAQQjB0&url=http%3A%2F%2Ffez.cervantes.es%2FFichasCultura%2FFicha82659_18_1.htm&ei=pNOLUrX7JMKM0AWAiYDoBw&bvm=bv.56643336,d.d2k&psig=AFQjCNEZyASR358KKnNTV2nbcpApXFSsRQ&ust=1384981793858109) Licencia Creative Commons
+
 
 En esta unidad exploraremos las posibilidades que ofrecen diferentes páginas de **distribución de videos** como **youtube, teachertube, vimeo, o RTVE**. como gran biblioteca audiovisual.
 
@@ -33,8 +33,7 @@ Todas las herramientas audiovisuales tienen la característica general de **incr
 *   Permiten adquirir, organizar y **estructurar** conocimientos teniendo en cuenta el proceso comunicativo y semántico que utilizan los medios audiovisuales.
 *   Fomentan y estimulan la **imaginación.**
 
-### **CRITERIOS PARA LA SELECCIÓN DE AUDIOVISUALES.  
-**
+### CRITERIOS PARA LA SELECCIÓN DE AUDIOVISUALES.
 
 Uno de los **errores más frecuentes** en el uso de materiales audiovisuales en el aula es pensar que **"todo vale".** Sin embargo, hay que cuidar el **proceso de selección** de nuestros materiales, puesto que si la elección no es correcta la actividad planteada va a ser un fracaso seguro. Los **factores más** destacados a tener en cuenta cuando seleccionamos y programamos una sesión son:
 

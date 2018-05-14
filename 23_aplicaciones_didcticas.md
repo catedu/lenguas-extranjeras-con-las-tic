@@ -1,10 +1,10 @@
 # 2.3. Aplicaciones didácticas
 
 
-![](img/aplicacion_didactica.jpg)
+![Fig 3.13 www.opendeco.es Licencia Creative Commons](img/aplicacion_didactica.jpg)
 
 
-Fig 3.13 [www.opendeco.es](http://www.google.es/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&docid=Hi50avsWljAGYM&tbnid=_OoFRf4tFPYSdM:&ved=0CAQQjB0&url=http%3A%2F%2Fwww.opendeco.es%2Fdecorar-y-educar-con-una-pizarra%2F&ei=BtaLUtfnHIWq0QX884HABw&bvm=bv.56643336,d.d2k&psig=AFQjCNGtyEj_u96BixmUbk-SbpLZbSsLmQ&ust=1384982236343141) Licencia Creative Commons
+
 
 ### EJEMPLOS DE APLICACIÓN DIDÁCTICA
 
@@ -14,5 +14,8 @@ Podemos **utilizar Movie Maker** o cualquier otro tipo de programa de edición d
 
 1.- En este video podemos ver como se **implementa** el uso de **Movie Maker** en una clase mixta de **español e inglés.** A través de una composición libre, se trabaja de una forma **significativa** **ambos idiomas** en una dinámica motivadora y enriquecedora para los alumnos. En este caso ha sido necesaria la grabación de escenas para su posterior edición utilizando Movie Maker.
 
+{% youtube %}https://youtu.be/dDc2TQCrKiU{% endyoutube %}
+
 2.- Este video nos muestra la otra variante del uso de Movie Maker con **imágenes externas.** No ha hecho falta la parte de grabación, puesto que la composición ha sido hecha a través de **imágenes capturada**s por el alumno, o **creadas** con **programas simple**s de dibujo como Paint. Es una forma diferente de recopliación de conocimiento a través de una **composición sencilla.**
 
+{% youtube %}https://youtu.be/iofFpzMFLCs{% endyoutube %}

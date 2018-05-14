@@ -1,10 +1,10 @@
 # 1.1 Aplicación en el aula de lengua extranjera
 
 
- ![](img/pizarra2.jpg)
+![Fig 4.4 www.opendeco.es Licencia Creative Commons](img/pizarra2.jpg)
 
 
- Fig 4.4  [www.opendeco.es](http://www.google.es/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&docid=Hi50avsWljAGYM&tbnid=_OoFRf4tFPYSdM:&ved=0CAQQjB0&url=http%3A%2F%2Fwww.opendeco.es%2Fdecorar-y-educar-con-una-pizarra%2F&ei=z_2QUpnHHKX30gXB-ID4Bw&bvm=bv.56988011,d.d2k&psig=AFQjCNFoKK6iFLOQ0PnW5MbTRGwG9xdEyg&ust=1385320256901421) Licencia Creative Commons
+ 
 
 ### APLICACION DIDÁCTICA.  
 
@@ -41,7 +41,14 @@ A continuación te mostramos algunos ejemplos de diferentes creaciones que puede
 
 2.- **Creaciones cortas**, de incluso sólo **una sola página** en la que de una forma diferente se plantea un texto corto, com puede ser una rima, una retahila, un trabalengüas....
 
-**3.- Hitorias o cuentos cortos**, incluso con un acabado no muy profesional pero hechas **integramente por nuestros alumnos** siguiendo unas indicaciones **muy guiadas** por nuestra parte.Es importante entender que **lo más importante** no es el resultado final, si no el **proceso** y la edecuación de los contenidos a nuestros alumnos.  
+<iframe width="436" height="272" src="https://storybird.com/books/during-english-class/embed/" frameborder="0" allowfullscreen mozallowfullscreen webkitallowfullscreen seamless scrolling="no"></iframe>
+
+**3.- Hitorias o cuentos cortos**, incluso con un acabado no muy profesional pero hechas **integramente por nuestros alumnos** siguiendo unas indicaciones **muy guiadas** por nuestra parte.Es importante entender que **lo más importante** no es el resultado final, si no el **proceso** y la edecuación de los contenidos a nuestros alumnos.
+
+<iframe width="436" height="272" src="https://storybird.com/books/english/embed/" frameborder="0" allowfullscreen mozallowfullscreen webkitallowfullscreen seamless scrolling="no"></iframe>
 
  **4-.Cuentos desarrollados por los alumnos** con ayuda del docente en los que se trabajen de una forma clara una serie de contenidos de vocabulario o gramática y que respondan a centros de interés de los propios alumnos.
 
+<iframe width="436" height="272" src="https://storybird.com/books/english-project-2/embed/" frameborder="0" allowfullscreen mozallowfullscreen webkitallowfullscreen seamless scrolling="no"></iframe>
+
+<iframe width="436" height="272" src="https://storybird.com/books/in-english-please/embed/" frameborder="0" allowfullscreen mozallowfullscreen webkitallowfullscreen seamless scrolling="no"></iframe>

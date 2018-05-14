@@ -1,10 +1,10 @@
 # U.4: Nuestro pod cast en la nube
 
 
-![](img/gestor-archivos-nube-380xXx80.jpg)
+![Fig 2.27  www.sarenet.es Licencia Creative Commons](img/gestor-archivos-nube-380xXx80.jpg)
 
 
-Fig 2.27  [www.sarenet.es](http://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&docid=hZwA34FUCaUMsM&tbnid=Mj8jTWFxNENFQM:&ved=0CAQQjB0&url=http%3A%2F%2Fwww.sarenet.es%2Finternet%2Fhosting-gestionado%2Fgestor-archivos-nube%2F&ei=PtyIUs2sELGN0wXZmoCACg&bvm=bv.56643336,d.d2k&psig=AFQjCNFF7Iy7F_Aahwh3h-OF8qt2zk0XwQ&ust=1384787370039622) Licencia Creative Commons
+
 
 Durante todo este módulo hemos estado hablando de la importancia de el **valor expositivo** de nuestras creaciones de audio en el aula de lenguas extranjeras.
 
@@ -25,6 +25,8 @@ También conocido como **Cloud Hosting**, este es el tipo de alojamiento web que
 *   **Dificultad** para un **hackers** para corromper a una aplicación en la nube
 
 El siguiente vídeo nos explica de una forma sencilla y gráfica el concepto metafórico de nube.
+
+{% youtube %}https://youtu.be/wvUEaLtn-LQ{% endyoutube %}
 
 ### ¿CÓMO SUBIMOS EL AUDIO A LA NUBE?
 

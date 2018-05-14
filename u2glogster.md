@@ -1,10 +1,8 @@
 # U2.Glogster
 
 
-![](img/Glogster_Logo.png)
+![Fig 4.7 commons.wikimedia.org Licencia Creative Commons](img/Glogster_Logo.png)
 
-
-Fig 4.7 [commons.wikimedia.org](http://www.google.es/url?sa=i&source=images&cd=&docid=mD-89oKCH8K4iM&tbnid=cT27_aQZ8YueUM:&ved=0CAcQjB0wAA&url=http%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AGlogster_Logo.png&ei=HTqNUoKLKfOZ0AX_lwE&psig=AFQjCNHbQ0Hi8o5H18quSRIa-wMb0MFFGA&ust=1385073565728815) Licencia Creative Commons
 
 **[Glogster](http://apiedeaula.blogspot.com/2009/08/glogsterando-sin-acentos-ni-n.html)** es una herramienta **web 2.0** que nos permite crear **murales** digitales **multimedia**. Los murales realizados con Glogster pueden ser **insertados en una web** (blog de aula, personal, etc.), proyectados y utilizados en clase mediante una **PDI** o pizarra digital normal como **apoyo** a la presentación de unos determinados contenidos.
 
@@ -23,6 +21,8 @@ La palabra **“glogster”** evoca las ideas “global” y “póster”, en r
 Glogster ha generado un vocabulario propio: un póster digital es un **glog** y el autor o autora de un glog es un **glogger.**
 
 Algunas de las herramientas 2.0 tal y como hemos visto en este curso tienen sus propias **versiones especificas para educación**. En el caso de Gloster encontramos la aplicación específica [**Glogser Edu**](http://edu.glogster.com/) que además de ofrecer las mismas posibildades técnicas que la versión general, da la opcion de **gestionar las cuentas de los alumnos**. Esta versión está disponible en modalidad de pago, o en versión demo durante 30 días. Te recomendamos utilizar la **versión normal** de la aplicación.  
+
+{% youtube %}https://youtu.be/HiS-Mdm3ZXc{% endyoutube %}
 
 ### CARACTERÍSTICAS GENERALES.
 

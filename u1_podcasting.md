@@ -1,10 +1,10 @@
 # U.1: Podcasting
 
 
-![](img/podcast.jpg)
+![Fig 2.3: brennandunn.com Licencia Creative Commons](img/podcast.jpg)
 
 
-Fig 2.3: [brennandunn.com](http://www.google.es/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&docid=lElSD2LpSuzvQM&tbnid=dGGPJVw_7YVL_M:&ved=0CAQQjB0&url=http%3A%2F%2Fbrennandunn.com%2Fcategory%2Fpodcast%2F&ei=iXSCUu61C4qH0AWfpoEI&psig=AFQjCNFmIIV0VV9j61a6lY_SkNr2uqcr4Q&ust=1384367594941559) Licencia Creative Commons
+
 
 ### ¿QUÉ ES UN PODCAST?
 
@@ -25,6 +25,8 @@ A continuación os dejamos 3 enlaces a definiciones generales,  que os pueden s
 *   **[definición 1](http://es.wikipedia.org/wiki/Podcast)**
 *   **[definición 2](http://oympodcasts.blogspot.com.es/2013/03/definicion-de-podcasts.html)**
 *   **[definición 3](http://www.anexom.es/tecnologia/el-podcasting-i-%C2%BFque-es-un-podcast-y-como-lo-uso/)**
+
+{% youtube %}https://youtu.be/0Zu5-_ExoZo{% endyoutube %}
 
 ### ** CARACTERÍSTICAS **
 

@@ -1,10 +1,10 @@
 # U3.Edito mi programa en la nube: Aminoto
 
 
-![](img/aminoto.JPG)
+[![Fig 3.14 www.animoto.com Licencia Creative Commons](img/aminoto.JPG)](http://www.animoto.com)
 
 
- Fig 3.14 [www.animoto.com](http://www.animoto.com) Licencia Creative Commons
+
 
 [Animoto](http://animoto.com/) es una aplicación web que te permite **crear tus propias películas** a partir de tus fotos y tu música, que luego podrás poner en tu web o blog. Todo ello guiado paso a paso de modo que en menos de** 5 minutos puedes hacerlo. **
 
@@ -28,5 +28,16 @@ Ya hemos hablado antes de que para crear producciones de mas de 30´habia que re
 
  Las producciones sencillas basadas en el montajes de **fotografias, texto y música** son las que más se acomodan al uso de Animoto. En los cursos superiores de Educación Primaria y en Educación Secundaria y Bachillerato se utilizan por los **propios alumnos** para hacer presentaciones, que en muchos casos sustituyen a las ya un tanto obsoletas presentaciones con diapositivas.
 
+{% youtube %}https://youtu.be/zwZ6nJYkoX4{% endyoutube %}
+
+{% youtube %}https://youtu.be/S_Dvhd1gCdQ{% endyoutube %}
+
+{% youtube %}https://youtu.be/jFHfX4-UFQg{% endyoutube %}
+
+{% youtube %}https://youtu.be/IdOtHFuQuvY{% endyoutube %}
+
+{% youtube %}https://youtu.be/g2UNVSZtUi4{% endyoutube %}
+
 No hay que olvidar que a nivel del **profesorado** , a parte del valor pedagógico, también es una herramienta muy adecuada para mostrar **recopilación** de trabajo de grupos y  **proyectos escolares**, tal y como se muestra en el siguiente video.
 
+{% youtube %}https://youtu.be/1qyaNVb5fPM{% endyoutube %}

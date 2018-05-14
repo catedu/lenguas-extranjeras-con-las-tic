@@ -3,10 +3,10 @@
 ### YOUTUBE
 
 
-![](img/youtube.png)
+![Fig 3.5 www.socialconsultingmedia.com Licencia Creative Commons](img/youtube.png)
 
 
-Fig 3.5 www.socialconsultingmedia.com Licencia Creative Commons
+
 
 Desde su nacimiento en **2005** [YouTube](http://www.youtube.com/) se ha hecho rápidamente popular. Más o menos todos tenemos una referencia de YouTube a través de los medios de comunicación, con su inagotable cantidad de **vídeos alojados,** incluso  se ha convertido en un recurso provechoso para programas de televisión, que utilizan de este modo escenas de uso libre para añadir contenido a sus sus emisiones.
 
@@ -17,10 +17,10 @@ Un dato relevante es el poder que estos medios van adquiriendo día a día, a pu
 ### TEACHERTUBE
 
 
-![](img/Teachertube.jpg)
+![Fig 3.6. www.teachertube.com Licencia Creative Commons](img/Teachertube.jpg)
 
 
-Fig 3.6. [www.teachertube.com](http://www.teachertube.com) Licencia Creative Commons
+
 
 Los **profesores** también pueden encontrar excelentes herramientas más concretas y enfocadas a la docencia que les faciliten su trabajo. Una de esas herramientas es **[TeacherTube](http://www.teachertube.com/). Teachertube nació en 2007** con la idea de establece una **comunidad en linea para compartir videos educativos.**
 
@@ -31,10 +31,10 @@ Los **profesores** también pueden encontrar excelentes herramientas más concre
 ### VIMEO  
 
 
-![](img/vimeo.jpg)
+![Fig 3.7 https://**vimeo**.com/‎ Licencia Creative Commons](img/vimeo.jpg)
 
 
- Fig 3.7 https://**vimeo**.com/‎ Licencia Creative Commons
+
 
 [**Vimeo**](https://vimeo.com/) fue lanzada en el **año 2004** como sitio web de a**lmacenaje compartido** de **videos**.Es un recurso que no estan conocido  como YouTube, o TeacherTube, pero Vimeo es muy **similar** a estas comunidades online. Da  la posibilidad de compartir archivos multimedia a personas de cualquier parte del mundo que tengan una conexión a Internet y un odenador.  
 
@@ -42,3 +42,4 @@ Al contrario de YouTube, donde subes un video y se convierte automáticamente en
 
 En el apartado anterior has podido ver ejemplos de YouTube y TeacherTube. Aquí te mostramos un ejemplo de video en la plataforma Vimeo, para que veas las **diferencias** de la plataforma en comparación con las otras dos.
 
+<iframe src="https://player.vimeo.com/video/18013450" width="640" height="362" frameborder="0" allowfullscreen></iframe>

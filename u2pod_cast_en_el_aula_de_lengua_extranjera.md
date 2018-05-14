@@ -1,10 +1,10 @@
 # U.2:.Pod cast en el aula de lengua extranjera
 
 
-![](img/listening.gif)
+![Fig 2.4 debkuhr.wordpress.com Licencia Creative Commons](img/listening.gif)
 
 
-Fig 2.4 [debkuhr.wordpress.com](http://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&docid=Ifc9SpverZQr9M&tbnid=FssPFY_hJCCzHM:&ved=0CAQQjB0&url=http%3A%2F%2Fdebkuhr.wordpress.com%2Fcategory%2Felements-of-literature%2F&ei=dgeVUrvSD-rjywP0hYGICw&bvm=bv.57155469,d.d2k&psig=AFQjCNGw70i97R6sfUd9mLXj9EoDKvN6BQ&ust=1385584838957621) Licencia Creative Commons
+
 
 Una de las aplicaciones más directas de los podcast es en el **aprendizaje de idiomas**. De hecho, la oferta de cursos y programas específicos es inmensa y abarca muchas lenguas. Hay que destacar las dos posibles **implementaciones** de esta aherramienta en el aula. Por una parte, el uso de los podcast como herramienta de **recepción** mediante la **audición** de podcast externos, y por otra la **creación** de nuestros propios podcast en el aula.
 

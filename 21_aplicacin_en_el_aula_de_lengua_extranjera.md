@@ -1,10 +1,10 @@
 # 2.1 Aplicación en el aula de lengua extranjera
 
 
-![](img/pizarra2.jpg)
+![Fig 4.8  www.opendeco.es Licencia Creative Commons](img/pizarra2.jpg)
 
 
-Fig 4.8  [www.opendeco.es](http://www.google.es/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&docid=Hi50avsWljAGYM&tbnid=_OoFRf4tFPYSdM:&ved=0CAQQjB0&url=http%3A%2F%2Fwww.opendeco.es%2Fdecorar-y-educar-con-una-pizarra%2F&ei=z_2QUpnHHKX30gXB-ID4Bw&bvm=bv.56988011,d.d2k&psig=AFQjCNFoKK6iFLOQ0PnW5MbTRGwG9xdEyg&ust=1385320256901421) Licencia Creative Commons
+
 
 ### APLICACIÓN DIDÁCTICA
 
@@ -35,15 +35,24 @@ En este apartado te vamos a mostrar algunos ejemplo prácticos de Glogter de otr
 
 1.- El primer ejemplo nos muestra un glogster especialmente ideado para **mostrar el contenido** de las horas en ingles. Incluye varios elementos, como **videos, imagenes y texto**. A nivel técnico es muy completo por que usa la mayoria de los accesorios que podemos incluir. A nivel pedagógico es un **material expositivo** creado por el docente con un final didáctico muy completo.
 
+<iframe src="https://edu.glogster.com//glog/39012325" width="480" height="650" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" style="overflow: hidden;"></iframe>
+
  2.- En este segundo ejemplo vemos un uso bastante similar al que hemos visto en el primero, es decir, un Glogster creado por el docente con **un objetivo pedagógico** claro. En este caso los sustantivos y adjetivos en Alemán.Vemos que a nivel de componentes es más pobre que el anterior, pero atención, **no se trata** **de insertar cualquier objeto** para que quede mejor visualmente, hay que intentar que los contenidos sean **atractivos, pero también significativos.**
+
+<iframe src="https://edu.glogster.com//glog/37217343" width="650" height="480" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" style="overflow: hidden;"></iframe>
 
 3.- Para introducir **unidades didácticas**. Es una buena forma de presentar en un sólo Gloster los contenidos más destacados de una unidad didáctica concreta. No sólo será un **buen recurso** para la **presentación**, si no también de **revisión de contenidos** al final de la misma, tanto para el docente como para los alumnos.
 
+<iframe src="https://edu.glogster.com//glog/32605625" width="480" height="650" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" style="overflow: hidden;"></iframe>
+
 4.- Este es un ejemplo de lo que podría ser un Glogster **creado por un alumno o un grupo de alumnos** en torno a un topic o tema. En este caso "The Beatles" es el tema central. Este tipo de trabajos para los alumnos, es idoneo por que necesita por una parte un trabajo de **investigación, recopilación, redacción, edición y presentación**. Es muy apropiado para alumnos del último ciclo de Educación Primaria y Educación Secundaria y Bachillerato.
 
-Este otro Glogter entra dentro de la misma categoría de trabajo de **investigación** y recopilación de información. En este caso **sobre el país** de la lengua.
+<iframe src="https://edu.glogster.com//glog/35643794" width="480" height="650" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" style="overflow: hidden;"></iframe>
 
 5.- Este Glogster nos ha parecido muy interesante debido a su originalidad, y el buen planteamineto y desarrollo del mismo. A través de canciones, la autora **introduce** los **sonidos** del idioma. Muy interesante como recurso tanto por su **contenido** como por su **continente.**
 
+<iframe src="https://edu.glogster.com//glog/29700039" width="480" height="650" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" style="overflow: hidden;"></iframe>
+
 En este otro ejemplo, simplemente introduce el **texto** de una canción y se incorpora el **audio** grabado por la propia profesora de la asigntatura. Gloster es una buena herramienta para crear **composiciones sencillas** en las que **insertar multimedias** como en este caso.
 
+<iframe src="https://edu.glogster.com//glog/21083417" width="480" height="650" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" style="overflow: hidden;"></iframe>

@@ -1,10 +1,8 @@
 # U.3:Creamos nuestro podcast
 
 
-![](img/micro.jpg)
+![F2.16 www.audiocentro.com.co Licencia Creative Commons](img/micro.jpg)
 
-
-F2.16 [www.audiocentro.com.co](http://www.google.es/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&docid=FY7MFQZPAdXfAM&tbnid=9O_h7mxxDRh1aM:&ved=0CAQQjB0&url=http%3A%2F%2Fwww.audiocentro.com.co%2Fproductos.php%3FpageNum_inscritos%3D2%26id_categoria%3D17&ei=mnGEUua_J4nJswak9oCYAw&bvm=bv.56343320,d.Yms&psig=AFQjCNFiwBCDeQ9wwFW9pQK2OeQ7unbHKg&ust=1384497940870919) Licencia Creative Commons
 
 ### USOS DE PODCAST PROPIOS EN EL AULA
 

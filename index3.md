@@ -1,10 +1,8 @@
 # M4. LECTURAS VIRTUALES
 
 
-![](img/07-Online-Reading.jpg)
+![Fig 4.1  lasmarinaslovestoread.blogspot.com Licencia Creative Commons](img/07-Online-Reading.jpg)
 
-
-Fig 4.1  [lasmarinaslovestoread.blogspot.com](http://www.google.es/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&docid=2E7o5tbi_NgbkM&tbnid=fQvdovQc3QqIvM:&ved=0CAQQjB0&url=http%3A%2F%2Flasmarinaslovestoread.blogspot.com%2F&ei=G--LUpj8OInB0gXm5YDQDQ&bvm=bv.56643336,d.d2k&psig=AFQjCNGSYt0cGMBcBlRr6-5Dc3CdhhYiQg&ust=1384988816737166) Licencia Creative Commons
 
 La **lectura y la escritura** son  una parte  **muy importante ** y no la podíamos dejarlas de lado en la enseñanza de lenguas extranjeras. Debemos de ser capaces de crear **entornos** de **lectura** que susciten interés y motivación ya que muchas veces en clase nos dan lecturas poco interesantes que no hacen mas desmotivar y aburrir a nuestros alumnos y alejarnos de crear un hábito de lectura. Uno lee mejor cuando trata de algo **interesante** y además es presentado en un **formato motivante.**
 

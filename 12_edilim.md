@@ -1,10 +1,7 @@
 # 1.2 Edilim
 
 
-![](img/edilim_logo.gif)
-
-
-Fig 5.8  [www3.gobiernodecanarias.org](http://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&docid=kG-7aYGwMySYkM&tbnid=Tl0A0SSeyKCjsM:&ved=0CAQQjB0&url=http%3A%2F%2Fwww3.gobiernodecanarias.org%2Fmedusa%2Fcontenidosdigitales%2FCursAutoform%2FInfantil%2FConocEntor%2Finf_cono_m1_sin%2Fcontenidos%2Fapartados%2F2_unidad_formativa%2F4_edlim%2F1_edilim.htm&ei=a3-SUvPGIubA0QWp8oHIBw&bvm=bv.56988011,d.d2k&psig=AFQjCNGFL7LaF3jkYEYQs9syWPybIG9dZQ&ust=1385418971600376) Licencia Creatice Commons
+![Fig 5.8 www3.gobiernodecanarias.org Licencia Creatice Commons](img/edilim_logo.gif)
 
 [_**Lim**_](http://www.educalim.com/cinicio.htm) es una sencilla aplicación creada por **_F__rac Macias_**, un compañero de Galicia, que permite su libre uso y distribución siempre que se respete su gratuidad y autoría. Se trata de un entorno para la creación de **materiales educativos** muy fácil de utilizar que **no necesita** ninguna **instalación** en el ordenador y que crea materiales didácticos accesibles desde Internet, independientemente del equipo y del navegador utilizado.
 
@@ -18,15 +15,17 @@ Ventajas:
 *   Tecnología Macromedia Flash, de contrastada fiabilidad y seguridad.
 *   Entorno abierto, basado en el formato XML.
 
+{% youtube %}https://www.youtube.com/watch?v=tGkwP2jIrn8{% endyoutube %}
+
 ### TUTORIAL
 
 Edilim es una herramienta **muy interesante**, pero **menos intuitiva** que Educaplay o Thatquiz. Es por eso que os dejamos a vuestra disposición el siguiente [**manual interactivo**](http://www.aularagon.org/Files/UserFiles/File/Internet_aula/INF_COMUNICACION/Tutoriales/EdiLIM/EdiLIM.htm) que os ayudará en el proceso de creación de vuestros libros.
 
 
-![](img/edilim_tutorial.JPG)
+![Fig 5.9 Captura Propia](img/edilim_tutorial.JPG)
 
 
-Fig 5.9 Captura Propia
+
 
 ### PARA COMPARTIR EN EL BLOG.
 

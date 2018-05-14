@@ -1,10 +1,10 @@
 # 3.2 Grabadora de sonidos de Windows
 
 
-![](img/grabadora_windows.gif)
+![Fig 2.22 ut.gamersmafia.com Licencia Creative Commons](img/grabadora_windows.gif)
 
 
-Fig 2.22 [ut.gamersmafia.com](http://www.google.es/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&docid=u4gW_oMZv6aQyM&tbnid=l55_fbN8Iil4tM:&ved=0CAQQjB0&url=http%3A%2F%2Fut.gamersmafia.com%2Ftutoriales%2Fshow%2F18&ei=tcGIUtCIBcvz0gWTjYDIAQ&bvm=bv.56643336,d.d2k&psig=AFQjCNHhn4nxb_fFPMs6kCakUchpG0ybPQ&ust=1384780548318874) Licencia Creative Commons
+
 
 La Grabadora de sonidos de Windows es la herramienta **más sencilla** de grabación de sonidos. Viene instalada **por defecto** en los equipos con las diferentes versiones del sistema operativo de **Windows.**
 
@@ -25,6 +25,8 @@ Podemos usar la grabadora de sonidos para **grabar** un sonido y **guardarlo** e
 *   Para seguir grabando audio, haga clic en Cancelar en el cuadro de diálogo Guardar como y, después, haga clic en Reanudar grabación. Siga grabando el sonido y, a continuación, haga clic en Detener grabación.
 
 *   Clic en el cuadro **Nombre de archivo**, escriba un nombre de archivo para el sonido grabado y, a continuación, haga clic en **Guardar** para guardar el sonido grabado en un archivo de audio.
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/GOs7PAIVf8XxB" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/learningmusic/tutorial-grabadora-de-sonido-windows-ppt" title="Tutorial grabadora de sonido windows ppt" target="_blank">Tutorial grabadora de sonido windows ppt</a> </strong> from <strong><a href="https://www.slideshare.net/learningmusic" target="_blank">Mila E Freire</a></strong> </div>
 
 ### CONVERSIÓN DE FORMATO
 

@@ -1,10 +1,7 @@
 # U.4 Comparto mis videos en el blog
 
 
-![](img/subir.jpg)
-
-
-Fig 3.15 [footage.shutterstock.com](http://www.google.es/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&docid=mp1ztTZP9JYq8M&tbnid=OSLYC-X-B4QCUM:&ved=0CAQQjB0&url=http%3A%2F%2Ffootage.shutterstock.com%2Fclip-2750498-stock-footage-software-icons-flow-under-abstract-cloud-server.html&ei=YdGLUvOFKKaa1AWsyYGgAw&bvm=bv.56643336,d.d2k&psig=AFQjCNGt5U5i-O3m6K5KM5Aya8tcP2jE2g&ust=1384981184592691) Licencia Creative Commons
+![Fig 3.15 footage.shutterstock.com Licencia Creative Commons](img/subir.jpg)
 
 A la hora de **compartir en el blog los videos** que has creado, tendremos que **tener en cuenta** por una parte, el **formato** en el que has creado el video, y por otra el **tipo de  blog** al que lo quieres subir.
 
@@ -25,10 +22,7 @@ Blogger permite cargar directamente vídeos desde cada una de las entradas.Para 
 Al pulsar el botón **Añadir vídeo** saltará una ventana emergente, en la que tendremos que localizar el vídeo a cargar, le tendremos que poner un título y tendremos que aceptar las condiciones.
 
 
-![](img/blogger_video_1.JPG)
-
-
-        Fig 3.16 Captura propia
+![Fig 3.16 Captura propia](img/blogger_video_1.JPG)
 
 Hay que tener en cuenta los **formatos** que admite (AVI, MPEG, Quick Time, Real y Windows Media) y que el **tamaño** máximo del archivo es de 100 MB
 
@@ -39,10 +33,10 @@ En el caso de Animoto, que es el que hemos utilizado en este módulo, es tan sen
 Una vez tengas tu video creado, y todavía dentre del **entorno de Animoto**, deberás dirigirte al botón **"video tolbox"** . Allí aparecerá una pantalla como esta:
 
 
-![](img/blogger_video_2.JPG)
+![Fig 3.17 Captura propia](img/blogger_video_2.JPG)
 
 
-          Fig 3.17 Captura propia
+          
 
 Como vamos a insertar el video a través de un código embebido, clicaras en **Embed**, y a contiuación **compiarás el código**.
 
@@ -54,3 +48,4 @@ El siguiente paso es **copiarlo en la entradada de Blogger**.
 
 Insertar un video en Wordpress es diferente que en Blogger. En el siguiente videotutorial explican el procedimiento para **embebe**r un video de youtube o de cualquier **servidor de videos externo**, y también como subir un **video propio** a nuestro blog.
 
+{% youtube %}https://youtu.be/QYetOA5Z9hU{% endyoutube %}

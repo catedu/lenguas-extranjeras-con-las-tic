@@ -1,10 +1,10 @@
 # 1.3 Thatquiz
 
 
-![](img/ThatQuiz.jpg)
+[![Fig 5.10 emsmathlab.wikispaces.com Licencia Creative Commons ](img/ThatQuiz.jpg)](http://emsmathlab.wikispaces.com/THAT%20QUIZ)
 
 
-Fig 5.10 [emsmathlab.wikispaces.com](http://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&docid=xY0Nchf2FMXKzM&tbnid=qa94Y_ns3372XM:&ved=0CAQQjB0&url=http%3A%2F%2Femsmathlab.wikispaces.com%2FTHAT%2BQUIZ&ei=CoCSUpTjO8yr0AXmsoDgCw&bvm=bv.56988011,d.d2k&psig=AFQjCNGUHzHkNC6yUK6ATFitToLIHF9jlw&ust=1385419131264068) Licencia Creative Commons 
+
 
 ThatQuiz es un sitio web **gratuito** para **generar actividades, pruebas o ejercicios interactivos,** pero también puede ser un **aula virtual con herramientas de seguimiento y registro** de la evolución de los alumnos.
 
@@ -26,7 +26,11 @@ ThatQuiz permite **descargar el programa** para trabajar en local, esta versión
 
 Este videotutorial muestra los primeros pasos para comenzar a utilizar thaquiz. El primer paso es **crear la clase**:
 
+{% youtube %}https://youtu.be/kbm_XFYzolg{% endyoutube %}
+
 En este segundo video tutorial de explica como **crear los ejercicios** o evaluaciones:
+
+{% youtube %}https://youtu.be/gQiCKXUCfwc{% endyoutube %}
 
 ### PARA COMPARTIR EN EL BLOG.
 

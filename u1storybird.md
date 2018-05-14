@@ -1,10 +1,10 @@
 # U1.Storybird
 
 
-![](img/storybird.jpg)
+![Fig 4.3 www.kleinspiration.com Licencia Creative Commons](img/storybird.jpg)
 
 
-Fig 4.3 [www.kleinspiration.com](http://www.google.es/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&docid=gU7iuIuU3pY39M&tbnid=zTVCkFSiVoiMjM:&ved=0CAQQjB0&url=http%3A%2F%2Fwww.kleinspiration.com%2F2011%2F02%2Freflection-on-storybird.html&ei=hwGNUvztGuei0QX504H4Aw&bvm=bv.56643336,d.d2k&psig=AFQjCNFwr8I2YIfx9Rsl3lBR3JiKGu7_XA&ust=1385059063646616) Licencia Creative Commons
+
 
 La habilidad de la **lectura y escritura** están presentes en el aula de lengua extranjera de forma continua. Enfrentar a nueestros alumos a textos que les aproximen a la lengua estudiada es parte fundamental de nuestra labor docente. Las Tics nos han dotado de **nuevas herramientas** para crear nuevos materiales que por su propia naturaleza son más **atractivos y significativos** para nuestros alumnos.
 
@@ -15,6 +15,8 @@ La lectura de **cuentos**, o **pequeñas historias**, sobretodo en las etapas de
 Dispone de un banco de **ilustraciones** de **diferentes artistas** con lo que  crear tus propios cuentos con un editor  visual.  La característica más destacada es que estos cuentos pueden ser posteriormente editados de manera **colaborativa** pudiendo ser compartidos a través de la **web 2.0.**
 
 El resultado final de los materiales  son cuentos con una **gran calidad de imagen** y que favorecen la capacidad creativa de nuestros alumnos al tiempo que se hace uso de las TICs, lo que nos proporciona una motivación añadida.
+
+{% youtube %}https://youtu.be/T00YjRBIcIw{% endyoutube %}
 
 ### CARACTERÍSTICAS GENERALES.
 

@@ -1,10 +1,10 @@
 # U3. ISSUU
 
 
-![](img/issuu_logo-.jpg)
+![Fig 4.11  icommunity.ie Licencia Creative Commons](img/issuu_logo-.jpg)
 
 
-Fig 4.11  [icommunity.ie](http://www.google.es/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&docid=rfsyhAzq_wBtlM&tbnid=IIm1-y7RLKmWCM:&ved=0CAQQjB0&url=http%3A%2F%2Ficommunity.ie%2F2013%2F09%2F07%2Fsharing-videos%2F&ei=VvyQUuCxFoaK0AWTkoGABA&bvm=bv.56988011,d.d2k&psig=AFQjCNG95AFkp0fAnpGX0Wv9YeCFIo8biQ&ust=1385319877665963) Licencia Creative Commons
+
 
 [**Issuu**](http://issuu.com/) es una **sencilla librería online comunitaria** donde los usuarios enviaremos nuestros archivos PDF, limitados a 100 MB/500 páginas como máximo por archivo. **Una vez que el archivo PDF es subido, se procesará sus contenidos para mostrarlos más tarde, en formato flash, con toda fidelidad al documento original**, pero permitiéndonos navegar por sus páginas como si estuviésemos leyendo una revista en la vida real, con opción de realizar zoom y pasar páginas de una manera sencilla, incluido el modo a pantalla completa.  
   

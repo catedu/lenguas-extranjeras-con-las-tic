@@ -1,10 +1,10 @@
 # M3.5 y acción!
 
 
-![](img/silla-del-director-vector-de-material_15-2420.jpg)
+![Fig 3.1 www.freepik.es Licencia Creative Commons](img/silla-del-director-vector-de-material_15-2420.jpg)
 
 
-Fig 3.1 [www.freepik.es](http://www.google.es/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&docid=bahSrlpbcqcW-M&tbnid=JI7WOXOe-wR7LM:&ved=0CAQQjB0&url=http%3A%2F%2Fwww.freepik.es%2Fvector-gratis%2Fsilla-del-director-vector-de-material_510255.htm&ei=ZuOLUt2BB4Oe0QWshYGICg&bvm=bv.56643336,d.d2k&psig=AFQjCNGRdNW95QXGfosCCVahxovepApDsg&ust=1384985822619893) Licencia Creative Commons
+
 
 El uso de **medios de comunicación** e información en las **prácticas pedagógicas** es un recurso indispensable para acercar el desarrollo de las competencias de los estudiantes a las dinámicas del mundo contemporáneo.
 

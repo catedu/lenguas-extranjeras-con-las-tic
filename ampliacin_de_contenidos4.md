@@ -1,12 +1,12 @@
 # Ampliación de contenidos
 
-## ParaSaberMas
+## Para saber más
 
 
-![](img/dropbox.png)
+![Fig 5.11 blogs.protegerse.com Licencia Creative Commons](img/dropbox.png)
 
 
-Fig 5.11 [blogs.protegerse.com](http://www.google.es/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&docid=Gznerq5zjkbkoM&tbnid=HZZq6q22K8vwAM:&ved=0CAQQjB0&url=http%3A%2F%2Fblogs.protegerse.com%2Flaboratorio%2F2012%2F08%2F01%2Fdropbox-soluciona-su-brecha-de-seguridad-y-anuncia-nuevas-medidas%2F&ei=ffCUUqaKGsfJswab4IC4Bg&bvm=bv.57155469,d.d2k&psig=AFQjCNEi-uyoLK-LKDGYK-6pfY4slO3xIQ&ust=1385578982369825) Licencia Creative Commons
+
 
 ### COMO PUBLICAR UNA ACTIVIDAD LIM A TRAVÉS DE DROPBOX
 
@@ -24,5 +24,5 @@ Os dejamos el [siguiente artículo](http://www.educacontic.es/blog/como-publicar
 
 ### TUTORIAL DROPBOX
 
-Si no has utilizado nunca Dropbox, te vendrá bien este [**manual**](http://www.catedu.es/facilytic/2013/05/16/dropbox/) extraido de la [**zona Facilytic del CATEDU**.](http://www.catedu.es/facilytic/) Tienes desglosados los  contenidos desde los primeros pasos,  hasta el uso de las diferentes opciones que este alojador ofrece.
+Si no has utilizado nunca Dropbox, te vendrá bien este [**manual**](http://facilytic.catedu.es/2013/05/16/dropbox/) extraido de la [**zona Facilytic del CATEDU**.](http://facilytic.catedu.es/) Tienes desglosados los  contenidos desde los primeros pasos,  hasta el uso de las diferentes opciones que este alojador ofrece.
 

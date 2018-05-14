@@ -1,10 +1,9 @@
 # M2: Escuchamos, grabamos...y lo compartimos!
 
+![Fig 2.1 partnerinedu.com Licencia Creative Commons](img/speaking-and-listening.jpg)
 
-![](img/speaking-and-listening.jpg)
 
 
-Fig 2.1 [partnerinedu.com](http://www.google.es/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&docid=msAhkd33Xdg6fM&tbnid=hrQnynL2djKkuM:&ved=0CAQQjB0&url=http%3A%2F%2Fpartnerinedu.com%2F2013%2F03%2F01%2Fwhere-the-common-core-missed-the-mark-speaking-and-listening-is-important-to-all-disciplines%2F&ei=P4CCUpPyMa2Y0QWshoD4Bw&bvm=bv.56146854,d.d2k&psig=AFQjCNHDRZ0LHBzUH0e1vZLt7sqrCbZkAg&ust=1384370596678517) Licencia Creative Commons
 
 ### PRESENTACIÓN  
 

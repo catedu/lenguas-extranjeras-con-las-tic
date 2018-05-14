@@ -1,10 +1,8 @@
 # 3.1 Aplicación en el aula de lengua extrajera
 
 
-![](img/pizarra2.jpg)
+![Fig 4.12 www.opendeco.es Licencia Creative Commons](img/pizarra2.jpg)
 
-
-Fig 4.12 [www.opendeco.es](http://www.google.es/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&docid=Hi50avsWljAGYM&tbnid=_OoFRf4tFPYSdM:&ved=0CAQQjB0&url=http%3A%2F%2Fwww.opendeco.es%2Fdecorar-y-educar-con-una-pizarra%2F&ei=z_2QUpnHHKX30gXB-ID4Bw&bvm=bv.56988011,d.d2k&psig=AFQjCNFoKK6iFLOQ0PnW5MbTRGwG9xdEyg&ust=1385320256901421) Licencia Creative Commons
 
 ###  APLICACIÓN DIDÁCTICA
 
@@ -16,7 +14,13 @@ La **galeria** de ISSUU es grande, y podemos encontrar materiales ya hechos, inc
 
 1.- Encontramos publicaciones **muy cuidadas** tanto en forma como en fondo, que proyectadas en la **PDI** son un material muy interesante para practicar la **lectura** comun, y trabajar tambien aspectos relacionados con el resto de habilidades que se trabajan en el aula de lenguas extranjeras. Hay muchos materiales, incluso colecciones como la que te presentamos a continuación.
 
+<iframe src="https://issuu.com/studentsbucharest/docs/bobble_tales" frameborder="0" width="100%" height="700" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 2.- Usar la herramienta de una **forma activa** creando nuestros propios cuentos, para promover actividades de escritura creativa, es otra de las opciones que tiene el uso de ISSUU en el aula. Este tipo de cuentos promueve el **trabajo colaborativo** en el aula. Las presentaciones son simplemente el resultado final del trabajo de los alumnos. que gana en cuanto a motivación y en **valor expositivo** al poder ser compartida.
 
+<iframe src="https://issuu.com/luciendehirsch/docs/recueil_d_histoires_extraordinaires_-_2012_cm1-2ld" frameborder="0" width="100%" height="700" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
  3.- Aunque no es el uso habitual, y encontremos herramientas mejores para ello, la **creación de material didáctico** también es una posibilidad que ofrece ISSUU. Podemos crear nuestros propios materiales y tambien podemos encontrarlos ya hechos  en el **repositorio** de la página.
+
+<iframe src="https://issuu.com/tomkuo/docs/seasons_in_french_frenchseasons_" frameborder="0" width="100%" height="700" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 

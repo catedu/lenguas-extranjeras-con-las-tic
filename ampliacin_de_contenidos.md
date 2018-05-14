@@ -1,16 +1,16 @@
 # Ampliación de contenidos
 
-## ParaSaberMas
+## Para saber más
 
 **MANUAL DE YOU TUBE**  
 
 Youtube tiene cacracterísticas interesantes que van mas allá del visionado habitual. Permite crear canales, registrarse y subcribirse a otros canales. En este [**tutorial**](http://www.catedu.es/facilytic/wp-content/uploads/2013/10/youtube.pdf) de José Ramón Olalla podéis encontrar información más detallada.
 
 
-![](img/youtubeolalla.JPG)
+![Fig 3.17.  Captura propia](img/youtubeolalla.JPG)
 
 
-Fig 3.17.  Captura propia
+
 
 **DESCARGAR VIDEOS**
 
