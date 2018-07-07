@@ -6,10 +6,6 @@
 
 **[Glogster](http://apiedeaula.blogspot.com/2009/08/glogsterando-sin-acentos-ni-n.html)** es una herramienta **web 2.0** que nos permite crear **murales** digitales **multimedia**. Los murales realizados con Glogster pueden ser **insertados en una web** (blog de aula, personal, etc.), proyectados y utilizados en clase mediante una **PDI** o pizarra digital normal como **apoyo** a la presentación de unos determinados contenidos.
 
-
-![](http://counters.gigya.com/wildfire/IMP/CXNID=2000002.0NXC/bT*xJmx*PTEyNzg1NzU5ODk1NDUmcHQ9MTI3ODU3NTk5NDYxNyZwPTIyMTYzMSZkPSZnPTImbz1lNzg*ZTIzZmZjYWU*ZDAxYTlh/NDViMDdlYjkxMjczOCZvZj*w.gif)
-
-
 Todos recordamos los **murales** que realizábamos de niños en los colegios. Buscábamos textos en libros, imágenes en revistas y periódicos, realizábamos dibujos, etc. con el fin de presentar el resumen de todo lo aprendido relacionado con algún tema de Ciencias Sociales, Matemáticas, etc.
 
 El uso de los murales y los posters sigue siendo habitual en los centros, si bien ya no se utilizan como recurso didáctico con la asiduidad con la que se realizaban en otros tiempos. Sin embargo, no debemos olvidar sus **posibilidades educativas.**
