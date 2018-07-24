@@ -41,7 +41,7 @@ Son aquellos en los que sirven para **gestionar una tutoria**. Punto de **encuen
 
 En algunos colegios se ha desarrollado la experiencia de que cada alumno posea un blog propio en el que cree sus **propias composiciones** para las diferentes áreas. A modo de diario individual, sobre sus intereses e inquietudes, aficiones, actividades, …, etc. De libre elección por los alumnos, cuidando las actitudes de respeto , y citando los recursos utilizados. Y también participar en las **blogs** **de compañeros/as,** comentando sus artículos y haciendo aportaciones, propuestas, etc.
 
-[Blog de alumno (CRA ARIÑO-ALLOZA)](vicentearino.blogspot.com)
+[Blog de alumno (CRA ARIÑO-ALLOZA)](http://vicentearino.blogspot.com/)
 
 
 ![Fig 1.6. Blog: El espacio de Vicente captura de pantalla](img/vicen.png)
@@ -52,12 +52,12 @@ En algunos colegios se ha desarrollado la experiencia de que cada alumno posea u
 
 Aquellos que a través de diversos formatos, como el de **periodico digital** o incluso **página web** del colegio, sirven de **encuentro** de la **comunidad educativa.** Aquí aprovecharíamos la potencia de los blogs en cuanto a gestión de archivos multimedia, propios o referenciados desde almacenes de contenidos (Flickr, Odeo, Youtube…).
 
-[Periódico Escolar Cra Ariño-Alloza](ARININOS2.blogspot.com)
+[Periódico Escolar Cra Ariño-Alloza](http://arininos2.blogspot.com/)
 
 
 ![Fig 1.7. Blog: Ariniños captura de pantalla](img/arininos.png)
               
-[Blog del colegio Alfonso I de Tauste](http://www.catedu.es/arablogs/blog.php?id_blog=2395)
+[Blog del colegio Alfonso I de Tauste](http://colegiopublicotauste.blogspot.com/)
 
 
 ![Fig. 1.8: Blog del colegio Alfonso I de Tauste captura de pantalla](img/alfondoI.png)
